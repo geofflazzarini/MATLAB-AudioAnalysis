@@ -18,7 +18,12 @@ Input either an audio file of any type from the same folder or simply
 type 'record' to be given the option of analysing data from a live
 microphone feed.
 
+Inlcuded are two public domain licensed audio files.
+ HEARTBEAT.mp3
+ RAINFOREST.mp3
 
+-
 Please contact for use.
 
 E: geofflazzarini@hotmail.com
+-
