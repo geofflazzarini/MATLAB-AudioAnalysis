@@ -1,7 +1,7 @@
 # MATLAB-AudioAnalysis
 
 The intial idea of this small project was to animate a 3D spectrogram while writing in the
-original audio, keeping in time.The result is two MATLAB functions, one used for the analysis 
+original audio, keeping in time. The result is two MATLAB functions, one used for the analysis 
 and visualisation of the audio and another for the live microphone recording input. 
 
 The code could be expanded with further analysis features. It could also be further optimised.
