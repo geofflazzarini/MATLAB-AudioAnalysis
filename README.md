@@ -6,7 +6,7 @@ and visualisation of the audio and another for the live microphone recording inp
 
 The code could be expanded with further analysis features. It could also be further optimised.
 
-This function processes audio performing analysis functions then
+This function processes audio, performing analysis functions then
 provides the user with an animated 3D Spectrogram of the audio, a simple
 yet interesting way to visualise audio data. The function includes a
 small feature to dynamically determine the input command used. This 
