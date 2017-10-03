@@ -19,10 +19,10 @@ type 'record' to be given the option of analysing data from a live
 microphone feed.
 
 Inlcuded are two public domain licensed audio files. <br />
-HEARTBEAT.mp3 <br />
-RAINFOREST.mp3 <br />
+- HEARTBEAT.mp3 <br />
+- RAINFOREST.mp3 <br />
 
--
+
 Please contact for use.
 
 E: geofflazzarini@hotmail.com
